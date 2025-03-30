@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on SrScottAlot</title>
+    <link>http://localhost:1313/gallery/</link>
+    <description>Recent content in Galleries on SrScottAlot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running away</title>
+      <link>http://localhost:1313/gallery/running-away/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/running-away/</guid><media:content url="http://localhost:1313/gallery/running-away/running%20away_hu_9b3d8e07acf06e3.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/running-away/running%20away_hu_9b3d8e07acf06e3.jpg&quot; /&gt;
+          &lt;p&gt;A small illustration I drew while listening to some SCP readings, I tend to enjoy this kinds of stories these days&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
