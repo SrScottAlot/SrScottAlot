@@ -1,0 +1,25 @@
+/* Position the menu fixed on the right side, centered vertically */
+#menu {
+    position: fixed;
+    top: 50%;
+    right: -250px; /* Adjust based on your menu's width */
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.9); /* or your desired background */
+    width: 250px; /* adjust width as needed */
+    transition: right 0.3s ease;
+    z-index: 1000;
+    padding: 1rem;
+    border-radius: 8px 0 0 8px;
+  }
+  
+  /* When the menu is "open", slide it in */
+  #menu.open {
+    right: 0;
+  }
+  
+  /* Style individual menu items to center the text */
+  #menu li {
+    margin: 1rem 0;
+    text-align: center;
+  }
+  
