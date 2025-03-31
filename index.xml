@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About me on SrScottAlot</title>
-    <link>https://srscottalot.github.io/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in About me on SrScottAlot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://srscottalot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
