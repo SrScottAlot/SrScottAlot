@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on SrScottAlot</title>
+    <link>http://localhost:1313/gallery/</link>
+    <description>Recent content in Gallery on SrScottAlot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portraits</title>
+      <link>http://localhost:1313/gallery/portraits/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/portraits/</guid><media:content url="http://localhost:1313/gallery/portraits/acrylics_hu_ffc75d4e7fa28fc8.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/portraits/acrylics_hu_ffc75d4e7fa28fc8.jpg&quot; /&gt;
+          &lt;p&gt;Some of my portraits and studies&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>AWS challenge</title>
+      <link>http://localhost:1313/gallery/aws-challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/aws-challenge/</guid><media:content url="http://localhost:1313/gallery/aws-challenge/srscottalot-amazon-logo_hu_6c0492e7f155533d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/aws-challenge/srscottalot-amazon-logo_hu_6c0492e7f155533d.jpg&quot; /&gt;
+          &lt;p&gt;Some of the 2d assest I made for a game a friend and I made in godot for an AWS challenge.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Running away</title>
+      <link>http://localhost:1313/gallery/running-away/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/running-away/</guid><media:content url="http://localhost:1313/gallery/running-away/running%20away_hu_9b3d8e07acf06e3.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/running-away/running%20away_hu_9b3d8e07acf06e3.jpg&quot; /&gt;
+          &lt;p&gt;A small illustration I drew while listening to some SCP readings, I tend to enjoy this kinds of stories these days&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Item design study</title>
+      <link>http://localhost:1313/gallery/items/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/items/</guid><media:content url="http://localhost:1313/gallery/items/srscottalot-gummy-training_hu_a8fcd362e3d7fa9c.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/items/srscottalot-gummy-training_hu_a8fcd362e3d7fa9c.jpg&quot; /&gt;
+          &lt;p&gt;Illustraitons of items for general use&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Traditional art</title>
+      <link>http://localhost:1313/gallery/traditional-art/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/traditional-art/</guid><media:content url="http://localhost:1313/gallery/traditional%20art/pencil%20study_hu_8a61ecf3ac443ed0.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/traditional%20art/pencil%20study_hu_8a61ecf3ac443ed0.jpg&quot; /&gt;
+          &lt;p&gt;Some of the traditional art I made&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
