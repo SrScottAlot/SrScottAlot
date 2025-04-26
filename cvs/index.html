@@ -3,8 +3,8 @@
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Gallery - SrScottAlot</title>
-  <link rel="canonical" href="http://localhost:1313/gallery/" />
+  <title>My CV - SrScottAlot</title>
+  <link rel="canonical" href="http://localhost:1313/cvs/" />
   <link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
   <link rel="icon" type="image/png" href="/images/favicon.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
@@ -13,12 +13,12 @@
   
     <meta name="robots" content="index, follow" />
   
-  <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/gallery/index.xml" title="SrScottAlot" />
-  <meta property="og:url" content="http://localhost:1313/gallery/" />
+  <meta property="og:url" content="http://localhost:1313/cvs/" />
   <meta property="og:site_name" content="SrScottAlot">
-  <meta property="og:title" content="Gallery">
+  <meta property="og:title" content="My CV">
+  <meta property="og:description" content="If you can’t see the embedded PDF, download it here.">
   <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
 
 
   
@@ -90,71 +90,40 @@
 
     <main>
       
-  
-
-  
-  <hgroup>
-    <h1>Gallery</h1>
+  <section style="padding: 0; margin: 0;">
     
-  </hgroup>
+    <h1 style="text-align: center; margin: 1rem 0; font-size: 2.5rem;">My CV</h1>
 
-
-  <section class="galleries">
-    
-      
-
-  <a class="card" href="/gallery/portraits/" title="Portraits">
-    <figure style="background-color: #303130">
-      <img class="lazyload" width="600" height="450" data-src="/gallery/portraits/portraits%20logo_hu_b97d4435e247bfda.png" alt="Portraits" />
-    </figure>
-    <div>
-      <h2>Portraits</h2>
-      <p>
-        
-          5 photos
-        
+    <div
+      style="
+        position: relative;
+        width: 60vw;           /* 60% of viewport width */
+        margin: 0 20vw;        /* 20% left & right margins */
+        padding-bottom: 67.5%;  /* height relative to width */
+        height: 0;
+        overflow: hidden;
+      ">
+      <iframe
+        src="/files/CV.pdf"
+        style="
+          position: absolute;
+          top: 0; left: 0;
+          width: 100%; height: 100%;
+          border: none;
+        "
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div style="
+        position: relative;
+        text-align: center;
+        margin-top: 1rem;
+    ">
+      <p style="margin: 0;">
+        If you can’t see the embedded PDF,
+        <a href="/files/CV.pdf" target="_blank" style="text-decoration: underline;">download it here</a>.
       </p>
     </div>
-  </a>
-
-
-    
-      
-
-  <a class="card" href="/gallery/gamedev/" title="Game Dev">
-    <figure style="background-color: #2f302f">
-      <img class="lazyload" width="600" height="450" data-src="/gallery/gamedev/GameDevLogo_hu_334fd0370e98adaa.png" alt="Game Dev" />
-    </figure>
-    <div>
-      <h2>Game Dev</h2>
-      <p>
-        
-          13 photos in 2 albums
-        
-      </p>
-    </div>
-  </a>
-
-
-    
-      
-
-  <a class="card" href="/gallery/general-art/" title="General Art">
-    <figure style="background-color: #2f302f">
-      <img class="lazyload" width="600" height="450" data-src="/gallery/general-art/zGenArtLogo_hu_b570c6934527db4d.png" alt="General Art" />
-    </figure>
-    <div>
-      <h2>General Art</h2>
-      <p>
-        
-          4 photos
-        
-      </p>
-    </div>
-  </a>
-
-
-    
   </section>
 
     </main>

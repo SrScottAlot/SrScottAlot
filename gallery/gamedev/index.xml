@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Dev on SrScottAlot</title>
+    <link>http://localhost:1313/gallery/gamedev/</link>
+    <description>Recent content in Game Dev on SrScottAlot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/gallery/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pits Of Despair</title>
+      <link>http://localhost:1313/gallery/gamedev/pits-of-despair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/gamedev/pits-of-despair/</guid>
+        <media:content url="http://localhost:1313/gallery/gamedev/pits-of-despair/pits%20cover_hu_a9002972946b85f7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/gamedev/pits-of-despair/pits%20cover_hu_a9002972946b85f7.jpg&quot; /&gt;
+          &lt;p&gt;A final project for university , A Godot based video game in the Souls like ganera, made as a proof of concept.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>AWS challenge</title>
+      <link>http://localhost:1313/gallery/gamedev/aws-challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/gamedev/aws-challenge/</guid>
+        <media:content url="http://localhost:1313/gallery/gamedev/aws-challenge/srscottalot-amazon-logo_hu_77e9ae030d5fc4ff.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/gamedev/aws-challenge/srscottalot-amazon-logo_hu_77e9ae030d5fc4ff.jpg&quot; /&gt;
+          &lt;p&gt;Some of the assest I made for a game a friend and I made in godot for an AWS challenge.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

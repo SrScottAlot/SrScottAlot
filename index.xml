@@ -5,6 +5,72 @@
     <link>http://localhost:1313/</link>
     <description>Recent content in About me on SrScottAlot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portraits</title>
+      <link>http://localhost:1313/gallery/portraits/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/portraits/</guid>
+        <media:content url="http://localhost:1313/gallery/portraits/portraits%20logo_hu_ffb7ffa4ca2d3c38.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/portraits/portraits%20logo_hu_ffb7ffa4ca2d3c38.png&quot; /&gt;
+          &lt;p&gt;Some of my portraits and studies&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>2D Design</title>
+      <link>http://localhost:1313/gallery/pits-of-despair/pits-of-despair-2d-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/pits-of-despair/pits-of-despair-2d-design/</guid>
+        <media:content url="http://localhost:1313/gallery/pits-of-despair/pits-of-despair-2d-design/srscottalot-base-of-vibes_hu_1959ac35db7fb2ca.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/pits-of-despair/pits-of-despair-2d-design/srscottalot-base-of-vibes_hu_1959ac35db7fb2ca.jpg&quot; /&gt;
+          &lt;p&gt;Some of my 2d art for a game I designed as a final project for Uni; &#34;Pits of despair&#34; - a tech demo of a souls like system made from scratch.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Pits Of Despair</title>
+      <link>http://localhost:1313/gallery/gamedev/pits-of-despair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/gamedev/pits-of-despair/</guid>
+        <media:content url="http://localhost:1313/gallery/gamedev/pits-of-despair/pits%20cover_hu_a9002972946b85f7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/gamedev/pits-of-despair/pits%20cover_hu_a9002972946b85f7.jpg&quot; /&gt;
+          &lt;p&gt;A final project for university , A Godot based video game in the Souls like ganera, made as a proof of concept.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>3D Design</title>
+      <link>http://localhost:1313/gallery/pits-of-despair/pits-of-despair-3d-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/pits-of-despair/pits-of-despair-3d-design/</guid>
+        <media:content url="http://localhost:1313/gallery/pits-of-despair/pits-of-despair-3d-design/srscottalot-empty-hex-rend_hu_e7005b004f342c32.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/pits-of-despair/pits-of-despair-3d-design/srscottalot-empty-hex-rend_hu_e7005b004f342c32.jpg&quot; /&gt;
+          &lt;p&gt;The 3d monster designs I made for my project - Pits Of despair, a tech demo of a souls like system made from scratch. &lt;/p&gt;
+        </description></item>
+    <item>
+      <title>AWS challenge</title>
+      <link>http://localhost:1313/gallery/gamedev/aws-challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/gamedev/aws-challenge/</guid>
+        <media:content url="http://localhost:1313/gallery/gamedev/aws-challenge/srscottalot-amazon-logo_hu_77e9ae030d5fc4ff.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/gamedev/aws-challenge/srscottalot-amazon-logo_hu_77e9ae030d5fc4ff.jpg&quot; /&gt;
+          &lt;p&gt;Some of the assest I made for a game a friend and I made in godot for an AWS challenge.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>General Art</title>
+      <link>http://localhost:1313/gallery/general-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/general-art/</guid>
+        <media:content url="http://localhost:1313/gallery/general-art/zGenArtLogo_hu_8813546e2b8b6827.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/general-art/zGenArtLogo_hu_8813546e2b8b6827.png&quot; /&gt;
+          &lt;p&gt;Some of my art&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>My CV</title>
+      <link>http://localhost:1313/cvs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cvs/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
